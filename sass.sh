@@ -5,7 +5,7 @@
 ##########################
 #
 #	Run this command:
-# 	bash <(wget -O - https://raw.githubusercontent.com/Laz88/bulma-sass/sass.sh)
+# 	bash <(wget -O - https://raw.githubusercontent.com/Laz88/bulma-sass/master/sass.sh)
 #
 ##########################
 # SCRIPT BEGINS HERE     #
